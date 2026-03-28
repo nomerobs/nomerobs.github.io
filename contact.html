@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="ca">
+<head>
+    <meta charset="UTF-8">
+    <title>Contacte</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+</head>
+
+<body>
+
+<header>
+    <div class="capcalera-superior">
+        <div class="bloc-nom-foto">
+            <img class="foto-perfil" src="perfil.jpg" alt="Foto de perfil">
+            <h1>IVAN SANTOS POLO</h1>
+        </div>
+
+        <div class="xarxes-header">
+            <a href="https://github.com/nomerobs" target="_blank">
+                <img src="github_icon_231949.png" alt="GitHub">
+            </a>
+        </div>
+    </div>
+
+    <nav>
+        <ul>
+            <li><a href="index.html">Presentació</a></li>
+            <li><a href="hobbies.html">Aficions</a></li>
+            <li><a href="trivial.html">Joc</a></li>
+            <li><a href="contact.html">Contacte</a></li>
+        </ul>
+    </nav>
+</header>
+
+<main>
+    <form id="formulari">
+        <label>Nom:
+            <input type="text" id="nom" required>
+        </label>
+
+        <label>Email:
+            <input type="email" id="email" required>
+        </label>
+
+        <label>Edat:
+            <input type="number" id="edat" min="10" max="99">
+        </label>
+
+        <label>Missatge:
+            <textarea id="missatge" required></textarea>
+        </label>
+
+        <button type="submit">Enviar</button>
+    </form>
+</main>
+
+<footer>
+    <p>IVAN SANTOS POLO</p>
+    <div class="xarxes-footer">
+        <a href="https://github.com/nomerobs" target="_blank">
+            <img src="github_icon_231949.png" alt="GitHub">
+        </a>
+    </div>
+</footer>
+
+</body>
+</html>

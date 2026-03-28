@@ -1,0 +1,123 @@
+/* ====== ESTILS GENERALS ====== */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background: #f5f5f5;
+    color: #222;
+}
+
+/* HEADER */
+header {
+    background: #1A2A40;
+    color: white;
+    padding: 1rem;
+}
+
+.capcalera-superior {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.bloc-nom-foto {
+    display: flex;
+    align-items: center;
+    gap: 0.8rem;
+}
+
+.foto-perfil {
+    width: 55px;
+    height: 55px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 2px solid white;
+}
+
+/* Xarxes socials */
+.xarxes-header img,
+.xarxes-footer img {
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    object-fit: cover;
+    transition: 0.3s ease;
+}
+
+.xarxes-header img:hover,
+.xarxes-footer img:hover {
+    transform: scale(1.15);
+}
+
+/* NAVBAR */
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 1.2rem;
+    padding: 0;
+    margin-top: 1rem;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    padding: 0.4rem 0.7rem;
+    border-radius: 4px;
+    transition: 0.3s ease;
+}
+
+nav a:hover {
+    background-color: #4A90E2;
+    transform: scale(1.05);
+}
+
+/* ====== TRIVIAL ====== */
+
+/* Estat inicial: totes NEGRES */
+.resposta {
+    padding: 0.5rem;
+    background: #000;      /* negre */
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s ease;
+    margin-bottom: 0.4rem;
+}
+
+/* Correcta després del clic */
+.resposta-correcta {
+    background: #4CAF50;   /* verd */
+    color: white;
+}
+
+/* Incorrecta després del clic */
+.resposta-incorrecta {
+    background: #E53935;   /* vermell */
+    color: white;
+}
+
+/* ====== CONTACTE ====== */
+
+input:invalid, textarea:invalid {
+    border: 2px solid red;
+}
+
+input:valid, textarea:valid {
+    border: 2px solid green;
+}
+
+/* FOOTER */
+footer {
+    text-align: center;
+    padding: 1rem;
+    background: #1A2A40;
+    color: white;
+    margin-top: 2rem;
+}
+
+.xarxes-footer {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+}
