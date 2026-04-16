@@ -2,14 +2,6 @@
 <table>
   <tr>
   <p style="font-size:16px;">🔥 <b>I am currently a student of ENTI</b></p>
-  <!-- Snake animation -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/nomerobs/nomerobs/blob/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/nomerobs/nomerobs/blob/output/github-contribution-grid-snake.svg">
-    <img alt="Snake animation" src="https://github.com/nomerobs/nomerobs/blob/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
-</p>
 </td>
       <td width="50%" align="center">
         <a href="https://github.com/nomerobs">
