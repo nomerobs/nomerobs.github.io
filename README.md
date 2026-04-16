@@ -12,7 +12,7 @@
 </p>
 </td>
       <td width="50%" align="center">
-        <a href="https://github.com/Isac999">
+        <a href="https://github.com/nomerobs">
           <img width="100%" src="https://github-readme-stats.vercel.app/api?username=nomerobs&show_icons=true&theme=neon&include_all_commits=true&count_private=true"/>
         </a>
         <br>
