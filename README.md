@@ -15,11 +15,11 @@
 </td>
       <td width="50%" align="center">
         <a href="https://github.com/Isac999">
-          <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Isac999&show_icons=true&theme=neon&include_all_commits=true&count_private=true"/>
+          <img width="100%" src="https://github-readme-stats.vercel.app/api?username=nomerobs&show_icons=true&theme=neon&include_all_commits=true&count_private=true"/>
         </a>
         <br>
-        <a href="https://github.com/Isac999">
-          <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isac999&layout=compact&langs_count=7&theme=neon"/>
+        <a href="https://github.com/nomerobs">
+          <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nomerobs&layout=compact&langs_count=7&theme=neon"/>
         </a>
       </td>
   </tr>
