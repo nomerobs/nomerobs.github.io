@@ -2,7 +2,10 @@
 <table>
   <tr>
     <td width="50%">
-  <p style="font-size:16px;">🔥 <b>I am currently a student of ENTI</b></p>
+    <p style="font-size:16px;">🔥 <b>I am currently a student of ENTI</b></p>
+    <p style="font-size:16px;">🔥 <b>Unity programer</b></p>
+    <p style="font-size:16px;">🔥 <b>Database</b></p>
+
 </td>
       <td width="50%" align="center">
         <a href="https://github.com/nomerobs">
